@@ -8,4 +8,4 @@ What's New — Version 1.1.basic
 - Improved the display and layout.
 - Existing calculator functions remain available as before.
 - Minor UI improvements and refinements.
-- **Full Changelog**: https://github.com/App-game-studio-appgames/A-Calculator/commits/v1.1.basic
+- upload will be tomorrow
