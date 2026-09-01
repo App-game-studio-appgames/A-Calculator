@@ -7,5 +7,4 @@ What's New — Version 1.1.basic
 - Improved the overall calculator UI for a cleaner experience.
 - Improved the display and layout.
 - Existing calculator functions remain available as before.
-- Minor UI improvements and refinements.
-- *upload will be tomorrow*
+- Minor UI improvements and refinement
