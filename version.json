@@ -1,0 +1,31 @@
+
+{
+  "appName": "A Calculator",
+  "packageName": "com.ar.acalculator",
+  "latestVersionCode": 9,
+  "minAndroidApi": 21,
+  "releases": [
+    {
+      "versionName": "v1.4.2.basic",
+      "versionCode": 9,
+      "plannedRelease": "October 2026",
+      "status": "WAITING",
+      "whatsNew": [
+        "UI improved.",
+        "Theme Picker improved.",
+        "Additional functions included."
+      ],
+      "downloadUrl": "https://apkpure.com/p/com.ar.acalculator"
+    },
+    {
+      "versionName": "v1.4.1.basic",
+      "versionCode": 8,
+      "plannedRelease": "Previous release",
+      "status": "RELEASED",
+      "whatsNew": [
+        "Previous release improvements."
+      ],
+      "downloadUrl": "https://apkpure.com/p/com.ar.acalculator"
+    }
+  ]
+}
